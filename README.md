@@ -2,6 +2,14 @@
 
 ![alt text](./images/image.png)
 
+`Choose mode config`
+
+![mode](./images/mode.png)
+
+## 1.1. Register Map with AXI LITE interface
+![register map](./images/register_map.png)
+
+
 # 2. SoC 
 ![alt text](./images/soc.png)
 ## 2.1. Generate Block Design
